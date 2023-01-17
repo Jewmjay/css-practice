@@ -26,19 +26,19 @@ padding: 6px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
-.menu:link {
+.menu1:link {
     color: black;
 }
 
-.menu:visited {
+.menu1:visited {
     color: white;
 }
 
-.menu:hover {
+.menu1:hover {
     color: rgb(69, 68, 68)
 }
 
-.menu:active {
+.menu1:active {
     color: chocolate;
 }
 
