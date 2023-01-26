@@ -1,0 +1,22 @@
+.headerline {
+    background-color: rgb(111, 111, 106);
+    height: 100px;
+    width: 100%;
+
+}
+
+section {
+display: inline-block;
+width: 70%;
+margin right: 25px;
+}
+
+aside {
+    display: inline-block;
+    width: 25%;
+}
+
+.albumwrap {
+    width: 100%;
+}
+
